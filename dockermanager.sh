@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 # Verifica o status do serviço docker
 STATUS=$(systemctl is-active docker.service)
